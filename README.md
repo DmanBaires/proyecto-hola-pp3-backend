@@ -4,4 +4,4 @@ Endpoints:
 - GET /api/health
 - GET /api/hola
 
-Deploy sugerido: Render como Web Service.
+Deploy: Render como Web Service.
